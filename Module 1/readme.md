@@ -1,0 +1,3 @@
+Data Collection:
+
+Data collection is a crucial step in any data analysis project, as it determines the quality and quantity of the data that will be used for further exploration and modeling. In the first module of the Capstone, we will collect data in various formats, such as .csv files, excel sheets, and databases, from various sources, such as websites, social media platforms, online databases, and more. We will use two methods to collect data: scraping data from the internet and using web APIs. Scraping data from the internet involves extracting information from web pages using tools such as BeautifulSoup or Selenium. Web APIs are interfaces that allow us to access data from online services or applications using requests and responses.
